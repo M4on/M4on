@@ -1,9 +1,12 @@
-<h1>Hi, I am Emmanuel Akpan!</h1>
+<h1>Hi there 👋 I'm Emmanuel Akpan</h1>
 </br>
+<div>
+I'm a tech enthusiast, AI builder, and no-code developer passionate about creating practical digital products that solve real-world problems. I enjoy building SaaS applications, AI agents, workflow automations, and web apps using modern tools like JavaScript, TypeScript, Python, Supabase, and AI platforms such as ChatGPT and Claude.
 
- <div>
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4on&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m4on&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+I'm particularly interested in AI-assisted development, automation, developer tools, and products that improve access to jobs, education, and business opportunities across Africa. I believe in continuous learning, open-source collaboration, and shipping useful software that makes an impact.
+
+**Currently exploring:** AI Agents • SaaS Development • Automation • Full-Stack Apps • Open Source • Developer Productivity
+
 </div>
 
  ## Skills
